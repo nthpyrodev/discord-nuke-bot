@@ -64,3 +64,10 @@ By using this bot, you agree to this disclaimer, and to not cause any damage. If
 
 
 ![image](https://github.com/nthpyrodev/discord-nuke-bot/assets/112079617/55a8e08b-d06f-4c3b-a56a-f7d05200b460)
+
+
+![image](https://github.com/nthpyrodev/discord-nuke-bot/assets/112079617/20f0e986-3aa7-47af-8a16-69b489bdd9b3)
+
+![image](https://github.com/nthpyrodev/discord-nuke-bot/assets/112079617/a40cd145-db83-44ad-8ef7-97f25288886c)
+
+![image](https://github.com/nthpyrodev/discord-nuke-bot/assets/112079617/a9d8c7d3-bad0-4026-a96d-707e04ef918d)

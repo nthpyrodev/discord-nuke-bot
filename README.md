@@ -24,8 +24,8 @@ This README provides detailed instructions on setting up and configuring the Dis
 ## config.json
 
 In config.json, you need to replace the bot token and client id with yours, which can be found in the Discord dev portal.
-    "token": "YOUR_BOT_TOKEN",
-    "clientId": "YOUR_CLIENT_ID",
+    `"token": "YOUR_BOT_TOKEN",`
+    `"clientId": "YOUR_CLIENT_ID",`
 ## How to run
 
 [Go to bot-hosting.net](https://bot-hosting.net/?aff=935849927832109176)
@@ -46,8 +46,8 @@ Once you have done all that, configure (in config.json) if you want the bot to d
 
 To start the bot, go to console, and press start.
 
-Now to install the bot on your server, go to the installation section of the Discord dev portal. Make sure that only the "guild install" is ticked. On the guild install config at the bottom, make sure that "scopes" is set to applications.commands, and bot.
-Then select permissions, and set that to admin. Now save changes, then go the "install link" box, and copy the link provided by Discord.
+Now to install the bot on your server, go to the installation section of the Discord dev portal. Make sure that only the "guild install" is ticked. On the guild install config at the bottom, make sure that "scopes" is set to `applications.commands`, and `bot`.
+Then select permissions, and set that to `admin`. Now save changes, then go the "install link" box, and copy the link provided by Discord.
 
 
 ## Be nice

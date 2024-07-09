@@ -1,7 +1,7 @@
 
 # Discord Nuke Bot
 
-This README provides detailed instructions on setting up and configuring the Discord Nuke Bot, including how to host it on bot-hosting.net, its dependencies, and configuration settings.
+This README provides detailed instructions on setting up and configuring the Discord Nuke Bot, including how to host it on bot-hosting.net, its dependencies, and configuration settings. The disclaimer can be found at the end.
 
 
 

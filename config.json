@@ -1,0 +1,16 @@
+{
+  "token": "YOUR-TOKEN-HERE!!!",
+  "clientId": "AND-YOUR-CLIENT-ID-HERE",
+  "runAutoActionsOnGuildJoin": true,
+  "_comment": "The following actions are to be run automatically when the bot joins a guild. To disable specific actions, set the value to false if boolean, or to disable auto messaging (first three options), set the channel id to a few zeros. To disable renaming channels or sending dms, remove their value entirely. Look at the line above to disable auto actions entirely.",
+  "autoActions": {
+    "sendMessageInterval": 30,
+    "message": "Hello, this is a timed message!",
+    "channels": ["0"],
+    "dmMessage": "",
+    "renameChannels": "",
+    "deleteChannels": false,
+    "kickMembers": false,
+    "deleteRoles": true
+  }
+}

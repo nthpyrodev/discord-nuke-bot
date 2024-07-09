@@ -60,4 +60,4 @@ I have made it so that messages that are DMed can't be spammed/repeated, like is
 
 The creator of this bot takes no responsibility for any use or actions resulting from using this bot. Use at your own risk, and ensure compliance with applicable laws. The bot is provided "as is" without any warranty. Users agree to indemnify and hold the creator harmless from any claims or damages arising from its use.
 
-By using this bot, you agree to this disclaimer. If you do not agree, do not use the bot.
+By using this bot, you agree to this disclaimer, and to not cause any damage. If you do not agree, do not use the bot.

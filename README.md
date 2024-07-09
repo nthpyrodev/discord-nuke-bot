@@ -30,7 +30,7 @@ In config.json, you need to replace the bot token and client id with yours, whic
 
 [Go to bot-hosting.net](https://bot-hosting.net/?aff=935849927832109176)
 
-Create new bot that runs on node.js.
+Create a new bot that runs on node.js.
 When it asks you what plans, I recommend a minimum of the second (25% cpu), but if you are testing on small servers, then the first usually does (20%).
 
 Login to the panel, go to startup, and enter this into the "Additional Node Packages" box: `discord.js @discordjs/rest discord-api-types`

@@ -12,7 +12,7 @@ This README provides detailed instructions on setting up and configuring the Dis
 - Renames all channels.
 - Deletes all channels.
 - Kicks all members.
-- Deletes all roles.
+- Deletes all roles. (Remember, it can't alter any roles above it's role.)
 - Auto-runs specified actions when added to a new server.
 
 ## Dependencies
